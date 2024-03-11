@@ -163,7 +163,7 @@ void calibraLDR(int &minVal, int &maxVal){
   }
 } 
 ```
-Para mais informações de como o código funciona, <a href="/color_detector.ino">Acesse o código aqui</a>
+Para mais informações de como o código funciona, <a href="/color_detector.ino">Acesse o código aqui</a> ou você pode ver a <a href="https://youtu.be/oHn-RooDAao">explicação do código</a>.
 
 # :page_facing_up: Licença
 Licença MIT. Para mais informações sobre a licença, <a href="/LICENSE">Clique aqui</a>
